@@ -5,7 +5,10 @@
 
 Hello!:fire: I'm Pavel!
 
-> I'm frontend developer with experience in creating SPA using React, Redux, Typescript.Open to your suggestions. :rocket:
-I'm always looking for ways to improve my professional skills. I'm punctual, diligent and result-oriented. In my free time I'm practicing on the Codewars, learning English and watching foreign YouTube channels about programming. :rocket:
+> Welcome to my GitHub page! As a front-end developer, I'm excited to showcase some of my work and projects here. You'll find a variety of repositories showcasing my coding skills and projects that I've worked on.
+
+Feel free to browse through my projects and don't hesitate to reach out if you have any questions or feedback. I'm always looking for ways to improve and learn, so any suggestions are greatly appreciated.
+
+Thank you for stopping by and I hope you find something interesting here! :rocket:
 
 ---
