@@ -1,5 +1,5 @@
-﻿#### location: Minsk, Belarus
-#### Email: pavel.kv94@yandex.by
+﻿#### location: Krakow, Poland
+#### Email: obilonix@proton.me
 #### Site: https://Pavelkv94.github.io/Portfolio_v3
 ---
 
