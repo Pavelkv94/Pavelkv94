@@ -1,4 +1,4 @@
-﻿#### location: Krakow, Poland
+﻿#### location: Minks, Belarus
 #### Email: obilonix@proton.me
 #### Site: https://Pavelkv94.github.io/Portfolio_v3
 ---
