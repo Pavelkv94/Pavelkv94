@@ -1,6 +1,6 @@
 ﻿#### location: Minks, Belarus
 #### Email: obilonix@proton.me
-#### Site: https://Pavelkv94.github.io/Portfolio_v3
+#### Site: pavel-kazlou.netlify.app
 ---
 
 Hello!:fire: I'm Pavel!
