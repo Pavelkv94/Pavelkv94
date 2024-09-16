@@ -24,3 +24,10 @@ Hello!:fire: I'm Pavel!
 | **Technologies**       | ![REST](https://img.shields.io/badge/RES%20API-black?logo=restapi&logoColor=white)&nbsp; ![WebSockets](https://img.shields.io/badge/WebSockets-orange?logo=restapi&logoColor=white)&nbsp; ![NPM](https://img.shields.io/badge/npm-purple?logo=npm&logoColor=white)&nbsp; ![Git](https://img.shields.io/badge/-Git-004400?style=flat&logo=git)&nbsp; ![GitHub](https://img.shields.io/badge/-GitHub-444444?style=flat&logo=github)&nbsp; ![GitLab](https://img.shields.io/badge/-GitLab-444444?style=flat&logo=GitLab)&nbsp; [![](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)](https://www.docker.com) |
 | **Databases**         | ![MySQL](https://img.shields.io/badge/-MySQL-444444?style=flat&logo=MySQL)&nbsp; ![SQLite](https://img.shields.io/badge/-SQLite-444444?style=flat&logo=SQLite)&nbsp; [![](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)](https://www.postgresql.org) ![MongoDB](https://img.shields.io/badge/MongoDB-green?logo=mongodb&logoColor=white) |
 
+#### Thanks for visiting :heart:
+
+<p align="center"> 
+<img src="https://profile-counter.glitch.me/PAvelkv94/count.svg">  
+
+counting of visitors to this page in this section started from September 16, 2024
+
