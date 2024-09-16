@@ -3,7 +3,6 @@
 #### Email: obilonix@proton.me
 #### Site: [pavel-kazlou.netlify.app](https://pavel-kazlou.netlify.app)
 
-![](assets/welcome.svg)
 
 
 | Property           | Data                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   |
