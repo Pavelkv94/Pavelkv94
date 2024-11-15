@@ -1,7 +1,7 @@
 ﻿Hello! :fire: I'm Pavel!
 #### location: Minks, Belarus
 #### Email: obilonix@proton.me
-#### Site: [pavel-kazlou.netlify.app](https://pavel-kazlou.netlify.app)
+#### Site: coming soon
 
 ![](assets/welcome.svg)
 
