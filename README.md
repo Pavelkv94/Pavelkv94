@@ -1,7 +1,7 @@
 ﻿Hello! :fire: I'm Pavel!
 #### location: Krakow, Poland
 #### Email: obilonix@proton.me
-#### Site: coming soon
+#### Site: [pavel-kazlou.app](http://pavel-kazlou.netlify.app/)
 
 ![](assets/welcome.svg)
 
