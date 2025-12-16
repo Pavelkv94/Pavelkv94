@@ -1,6 +1,4 @@
 ﻿Hello! :fire: I'm Pavel!
-#### location: Krakow, Poland
-#### Email: obilonix@proton.me
 #### Site: [pavel-kazlou.app](http://pavel-kazlou.netlify.app/)
 
 ![](assets/welcome.svg)
@@ -15,4 +13,5 @@
 | **Databases**         | [![MySQL](https://img.shields.io/badge/-MySQL-444444?style=flat&logo=MySQL)](https://www.mysql.com/)&nbsp; [![SQLite](https://img.shields.io/badge/-SQLite-444444?style=flat&logo=SQLite)](https://www.sqlite.org/)&nbsp; [![](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)](https://www.postgresql.org) [![MongoDB](https://img.shields.io/badge/MongoDB-green?logo=mongodb&logoColor=white)](https://www.mongodb.com/) |
 
 #### Thanks for visiting :heart:
+
 
